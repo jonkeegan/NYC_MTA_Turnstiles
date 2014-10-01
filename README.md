@@ -2,7 +2,7 @@
 Some tools to help working with New York City's Metropolitan Transit Authority turnstile data.
 
 You can find this data published weekly here:
-http://www.mta.info/developers/turnstile.html
+http://web.mta.info/developers/turnstile.html
 
 Data formatting is described here:
 http://www.mta.info/developers/resources/nyct/turnstile/ts_Field%20Description.txt
@@ -13,4 +13,4 @@ and field names. Tihs is meant to be quick and dirty, so all cols are currently 
 It also includes some sample data to get going.
 
 Jon Keegan
-jon@jonkeegan.com
+jonkeegan@gmail.com
